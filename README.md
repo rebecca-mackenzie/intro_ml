@@ -11,3 +11,7 @@ conda env create -f environment.yml -n intro
 
 conda activate intro
 jupyter notebook
+
+To close the notebook:
+Ctrl + C to kill the kernel
+conda deactivate
