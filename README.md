@@ -15,3 +15,6 @@ jupyter notebook
 To close the notebook:
 Ctrl + C to kill the kernel
 conda deactivate
+
+To convert to presentation:
+jupyter nbconvert Presentation.ipynb --to slides --post serve
