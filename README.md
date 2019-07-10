@@ -12,7 +12,6 @@ To create an environment and run the notebook:
 	conda activate intro
 	jupyter notebook
 
-To close the notebook:
-	Ctrl + C to kill the kernel
+To close the notebook, Ctrl + C to kill the kernel
 	conda deactivate
 
